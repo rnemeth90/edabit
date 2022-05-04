@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0d0c9671-2246-4df1-8140-895aca41253c": {
+      "ProjectGuid": "0d0c9671-2246-4df1-8140-895aca41253c",
+      "DisplayName": "TheCollatzConjecture",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
